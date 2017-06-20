@@ -1,0 +1,1 @@
+define_clock {clk} -period 10.0 -clockgroup default_clkgroup
